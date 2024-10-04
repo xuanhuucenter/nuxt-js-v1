@@ -1,7 +1,7 @@
 <template>
   <a
     v-if="showBuyMeACoffee"
-    href="https://www.buymeacoffee.com/xuanhuu"
+    href="https://www.buymeacoffee.com/mdrathik"
     target="_blank"
   >
     <img

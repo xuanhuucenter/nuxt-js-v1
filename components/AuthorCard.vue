@@ -7,7 +7,8 @@
         alt="me"
         class="shadow-xl md:h-60 md:w-60 h-40 w-40 rounded-full"
       />
-      <div class="mb-2 mx-7 mt-4 justify-center items-center">
+      <div class="mb-2 mx-7 mt-4 justify-center items-center text-center">
+        <!-- Tên, chức vụ và địa điểm gộp chung vào một khối -->
         <h1
           class="md:text-3xl text-2xl text-gray-800 font-bold dark:text-blue-100"
         >
@@ -16,27 +17,9 @@
         <div class="md:text-lg text-gray-600 dark:text-blue-100">
           {{ author.position }}
         </div>
-        <a
-          :href="`mailto:${author.email}`"
-          class="text-gray-600 md:hidden mt-1 dark:text-blue-100"
-        >
-          {{ author.email }}
-        </a>
-      </div>
-    </div>
-
-    <div class="mx-7 hidden md:block">
-      <div class="my-2 text-gray-600 flex dark:text-blue-100">
-        <Mail />
-        <a :href="`mailto:${author.email}`"> {{ author.email }}</a>
-      </div>
-      <div class="my-2 text-gray-600 flex dark:text-blue-100">
-        <Glob />
-        <p>{{ author.location }}</p>
-      </div>
-      <div class="my-2 text-gray-600 flex dark:text-blue-200">
-        <Github />
-        <a :href="`https://github.com/${author.github}`"> {{ author.github }}</a>
+        <div class="text-gray-600 flex justify-center items-center dark:text-blue-100">
+          <p>{{ author.location }}</p>
+        </div>
       </div>
     </div>
   </div>
@@ -44,8 +27,4 @@
 
 <script setup>
 import author from "@/data/author.js";
-import Glob from "assets/icons/glob.svg?skipsvgo";
-import Mail from "assets/icons/mail.svg?skipsvgo";
-import Github from "assets/icons/github_new.svg?skipsvgo";
 </script>
-
