@@ -3,8 +3,8 @@ title: "Forex là cờ bạc?"
 tags: forex
 date: 2024-10-01
 description: "Bài viết này thảo luận liệu Forex có phải là cờ bạc hay không, giải thích các yếu tố về rủi ro và cách quản lý khi giao dịch."
-image: 
-author: Xuan Huu
+image: ""
+author: Lưu Nguyễn Xuân Hữu
 slug: forex-la-co-bac
 draft: false
 ---

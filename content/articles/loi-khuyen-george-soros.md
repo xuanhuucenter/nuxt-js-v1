@@ -3,7 +3,7 @@ title: "George Soros: Trong đầu tư, hãy im lặng mà làm"
 tags: ban-khong, bi-quyet-dau-tu, cau-chuyen-dau-tu, chien-luoc-dau-tu, dau-tu-thong-minh, george-soros, giao-dich-ngoai-hoi, kinh-nghiem-trading, loi-nhuan-dau-tu, phan-tich-thi-truong, phat-trien-ban-than-trong-dau-tu, phi-vu-noi-tieng, quan-ly-rui-ro, tam-ly-dau-tu, thi-truong-tai-chinh
 date: 2024-10-01
 description: "Bài viết này chia sẻ về quan điểm và chiến lược đầu tư của George Soros, nhấn mạnh tầm quan trọng của việc im lặng và tập trung vào hiệu quả đầu tư."
-image: 
+image: ""
 author: Lưu Nguyễn Xuân Hữu
 slug: loi-khuyen-george-soros
 draft: false

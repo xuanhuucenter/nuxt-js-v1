@@ -1,1 +1,0 @@
-const t={title:"Mondongo",description:"A tech enthusiast & self taught learner. Love to talk the way of tech.",slogan:"Let's start coding",language:"en-us",theme:"system",siteUrl:"https://rathik.dev",siteRepo:"#",siteLogo:"../assets/author.png",image:"~/assets/author.png",socialBanner:"/static/images/twitter-card.png"};export{t as s};

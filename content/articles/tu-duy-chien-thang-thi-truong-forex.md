@@ -6,7 +6,7 @@ description: "Bài viết này chia sẻ về tư duy chiến thắng trong th�
 image: static/images/tu-duy-chien-thang-thi-truong-forex.jpg
 author: Lưu Nguyễn Xuân Hữu
 slug: tu-duy-chien-thang-thi-truong-forex
-draft: false
+draft: true
 ---
 
 
