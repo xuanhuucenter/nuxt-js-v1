@@ -1,10 +1,10 @@
 ---
 title: "Forex là cờ bạc?"
-tags: cach-giao-dich-forex-hieu-qua, cach-tranh-rui-ro-khi-giao-dich-forex, chien-luoc-giao-dich-forex, co-bac-va-forex, dau-tu-forex, dau-tu-ngoai-hoi, dau-tu-thong-minh-voi-forex, dau-tu-tien-te, forex-co-phai-la-co-bac, forex-hop-phap, forex-la-gi, giao-dich-forex, hoc-forex, kien-thuc-ve-forex, ky-luat-trong-giao-dich-forex, phan-tich-co-ban-trong-forex, phan-tich-ky-thuat-forex, quan-ly-rui-ro-forex, quan-ly-von-trong-forex, tai-sao-giao-dich-forex-that-bai, tam-ly-giao-dich-forex, thi-truong-ngoai-hoi
+tags: forex
 date: 2024-10-01
 description: "Bài viết này thảo luận liệu Forex có phải là cờ bạc hay không, giải thích các yếu tố về rủi ro và cách quản lý khi giao dịch."
 image: 
-author: Lưu Nguyễn Xuân Hữu
+author: Xuan Huu
 slug: forex-la-co-bac
 draft: false
 ---
